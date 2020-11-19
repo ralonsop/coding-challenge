@@ -45,8 +45,7 @@ Example 3: Buy Water without exact change
 # Considerations
 * Programming language should be *PHP*
 * Solution with `Dockerfile` or `docker-compose` is highly appreciated
-*  When you finish,  why not go to an extra mille and add some tests? :) 
-* Frameworks like Symphony,  Laravel are allowed
+* When you finish,  why not go to an extra mille and add some tests? :)
 
 # Additional Notes
 * The provided solutions needs to be uploaded into a public repository (Github, Gitlab, bitbucket) with a README.MD providing the following information.
